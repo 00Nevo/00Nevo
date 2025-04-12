@@ -1,18 +1,11 @@
 ### 👋 About Me
 
-Currently, I am focusing on learning the programming languages **R**, **Python**, **Java**, and **JavaScript**. 
+Currently, I am focusing on learning the following programming languages:
 
-- I have already learned **R** at university in connection with **ArcGIS**, and I particularly appreciate the language because it is easy to learn and the code tends to be compact. I have worked on several projects using **R** in the fields of **data analysis** 📊, **statistics** 📈, and **geographic information systems (GIS)** 🌍.
-
-At the moment, I am deepening my knowledge of **Python** 🐍 to strengthen and apply my **mathematical foundations** ➗. I am exploring topics such as:
-
-- **Number puzzles** 🧩
-- **Geometry** 📐
-- **Random numbers** 🎲
-
-These help me build a solid base for mathematical applications in programming.
-
-I have recently started learning **Java** ☕ and **JavaScript** 💻, and I am excited to learn more about **software development** 🖥️ and **web technologies** 🌐.
+1. **R** 📊 (Learned at university with **ArcGIS** in the fields of **data analysis**, **statistics**, and **geographic information systems (GIS)** 🌍)
+2. **Python** 🐍 (Currently deepening my knowledge to strengthen and apply **mathematical foundations** ➗, exploring topics like **number puzzles** 🧩, **geometry** 📐, and **random numbers** 🎲)
+3. **Java** ☕ (Recently started learning)
+4. **JavaScript** 💻 (Recently started learning)
 
 I am passionate about:
 
@@ -20,5 +13,7 @@ I am passionate about:
 - **Data science** 📊
 - **Geographic information systems (GIS)** 🗺️
 - **Software development** 💻
+- **Web technologies** 🌐
 
-And I look forward to expanding my knowledge in a **creative** 🎨 and **dynamic** ⚡ environment.
+I look forward to expanding my knowledge in a **creative** 🎨 and **dynamic** ⚡ environment.
+
