@@ -2,18 +2,26 @@
 
 Currently, I am focusing on learning the following programming languages:
 
-1. **R** 📊 (Learned at university with **ArcGIS** in the fields of **data analysis**, **statistics**, and **geographic information systems (GIS)** 🌍)
-2. **Python** 🐍 (Currently deepening my knowledge to strengthen and apply **mathematical foundations** ➗, exploring topics like **number puzzles** 🧩, **geometry** 📐, and **random numbers** 🎲)
-3. **Java** ☕ (Recently started learning)
-4. **JavaScript** 💻 (Recently started learning)
+1. **R** 📊  
+   Learned at university in combination with **ArcGIS** for projects involving **data analysis**, **statistics**, and **geographic information systems (GIS)** 🌍. I enjoy using R for its simplicity and concise syntax, especially in data-heavy contexts.
+
+2. **Python** 🐍  
+   I'm using Python to strengthen and apply my **mathematical foundations** ➗ through creative coding — exploring topics such as **number puzzles** 🧩, **geometry** 📐, and **randomness** 🎲 to build a solid understanding of programming logic and structure.
+
+3. **Java** ☕  
+   Currently learning the fundamentals of **object-oriented programming (OOP)**, working with **classes**, **methods**, and **GUI applications** using Java Swing. I'm gaining hands-on experience through practical exercises and small interactive projects.
+
+4. **JavaScript** 💻  
+   Diving into the world of **web development** with JavaScript, learning how to manipulate the **DOM**, respond to **user interactions**, and build dynamic elements for websites. I'm focused on understanding the language's behavior in the browser environment.
+
+---
 
 I am passionate about:
 
-- **Mathematics** ➗
-- **Data science** 📊
-- **Geographic information systems (GIS)** 🗺️
-- **Software development** 💻
-- **Web technologies** 🌐
+- **Mathematics** ➗  
+- **Data science** 📊  
+- **Geographic information systems (GIS)** 🗺️  
+- **Software development** 💻  
+- **Web technologies** 🌐  
 
-I look forward to expanding my knowledge in a **creative** 🎨 and **dynamic** ⚡ environment.
-
+I'm excited to continue growing my skills in a **creative** 🎨 and **dynamic** ⚡ environment, building projects that blend data, interactivity, and visual design.
