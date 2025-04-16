@@ -7,12 +7,13 @@ I'm currently focused on developing **practical beginner skills** in **data anal
 ### 🔧 Primary Focus
 
 1. **R + Excel for Data Analysis** 📊  
-   Using R and Excel together to explore and analyze structured data.  
+   Using R (and SPSS for statistical analysis) and Excel together to explore and analyze structured data.  
    Topics include:
    - Organizing and cleaning datasets  
    - Statistical testing (e.g. t-tests, correlation, regression)  
    - Data visualization  
    - Reporting results clearly and effectively  
+   *(R, learned at university in combination with ArcGIS for data analysis, and SPSS for statistical analysis)*
 
 2. **Software Testing** 🧪  
    Gaining a solid understanding of the basics of manual software testing:  
@@ -57,4 +58,3 @@ I'm currently focused on developing **practical beginner skills** in **data anal
 ---
 
 I'm motivated by a decade of learning as a webmaster and am ready to grow into more advanced roles in **data**, **QA**, or **support**.
-
