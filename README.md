@@ -1,27 +1,60 @@
 ### 👋 About Me
 
-Currently, I am focusing on learning the following programming languages:
-
-1. **R** 📊  
-   Learned at university in combination with **ArcGIS** for projects involving **data analysis**, **statistics**, and **geographic information systems (GIS)** 🌍. I enjoy using R for its simplicity and concise syntax, especially in data-heavy contexts.
-
-2. **Python** 🐍  
-   I'm using Python to strengthen and apply my **mathematical foundations** ➗ through creative coding — exploring topics such as **number puzzles** 🧩, **geometry** 📐, and **randomness** 🎲 to build a solid understanding of programming logic and structure.
-
-3. **Java** ☕  
-   Currently learning the fundamentals of **object-oriented programming (OOP)**, working with **classes**, **methods**, and **GUI applications** using Java Swing. I'm gaining hands-on experience through practical exercises and small interactive projects.
-
-4. **JavaScript** 💻  
-   Diving into the world of **web development** with JavaScript, learning how to manipulate the **DOM**, respond to **user interactions**, and build dynamic elements for websites. I'm focused on understanding the language's behavior in the browser environment.
+I'm currently focused on developing **practical beginner skills** in **data analysis**, **technical support**, and **software testing**.
 
 ---
 
-I am passionate about:
+### 🔧 Primary Focus
 
-- **Mathematics** ➗  
-- **Data science** 📊  
-- **Geographic information systems (GIS)** 🗺️  
-- **Software development** 💻  
-- **Web technologies** 🌐  
+1. **R + Excel for Data Analysis** 📊  
+   Using R and Excel together to explore and analyze structured data.  
+   Topics include:
+   - Organizing and cleaning datasets  
+   - Statistical testing (e.g. t-tests, correlation, regression)  
+   - Data visualization  
+   - Reporting results clearly and effectively  
 
-I'm excited to continue growing my skills in a **creative** 🎨 and **dynamic** ⚡ environment, building projects that blend data, interactivity, and visual design.
+2. **Software Testing** 🧪  
+   Gaining a solid understanding of the basics of manual software testing:  
+   - Test planning and execution  
+   - Writing and organizing test cases  
+   - Understanding defect lifecycles  
+   - Gaining insight into QA processes and standards (e.g. ISTQB Foundation)  
+
+3. **IT Support Fundamentals** 💻  
+   Developing fundamental IT support skills:  
+   - Operating systems and basic commands  
+   - Hardware setup and troubleshooting  
+   - Basic networking and security  
+   - User support and issue resolution  
+
+---
+
+### 🧩 Secondary Focus
+
+- **JavaScript (Beginner)** 💻  
+  Learning how to use JavaScript for basic web interactivity and functionality:  
+  - DOM manipulation  
+  - Event handling  
+  - Browser-based scripting fundamentals  
+
+- **C++ (Beginner)** 🧠  
+  Exploring programming concepts through C++:  
+  - Syntax and structure  
+  - Control flow and functions  
+  - Introduction to object-oriented programming  
+
+---
+
+### 🎯 My Interests
+
+- Data analysis and visualization  
+- Software quality and usability  
+- Software testing  
+- IT support  
+- Learning by doing — hands-on, real-world application  
+
+---
+
+I'm motivated by a decade of learning as a webmaster and am ready to grow into more advanced roles in **data**, **QA**, or **support**.
+
