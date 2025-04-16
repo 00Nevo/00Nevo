@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I'm currently focused on developing **practical beginner skills** in **data analysis**, **technical support**, and **software testing**.
+I'm developing **practical beginner skills** in **data analysis**, **software testing**, and **technical support**.
 
 ---
 
