@@ -4,9 +4,9 @@ I'm developing **practical beginner skills** in **data analysis**, **IT technica
 
 ---
 
-### 🔧 Primary Focus
+### 📚 Primary Focus
 
-1. **R + Excel for Data Analysis** 📊  
+1. 📊 **R + Excel for Data Analysis**   
    Using R and Excel together to explore and analyze structured data.  
    Topics include:
    - Organizing and cleaning datasets  
@@ -15,13 +15,13 @@ I'm developing **practical beginner skills** in **data analysis**, **IT technica
    - Reporting results clearly and effectively  
    *(i learned at university R, in combination with ArcGIS for data analysis, and SPSS for statistical analysis)*
 
-2. **JavaScript (Beginner)** 💻  
-  Learning how to use JavaScript for basic web interactivity and functionality:  
-  - DOM manipulation  
-  - Event handling  
-  - Browser-based scripting fundamentals  
+2. 🟡 **JavaScript (Beginner)**  
+   Learning how to use JavaScript for basic web interactivity and functionality:  
+   - DOM manipulation  
+   - Event handling  
+   - Browser-based scripting fundamentals  
 
-3. **IT Support Fundamentals** 💻  
+3. 🔧 **IT Support Fundamentals**   
    Developing fundamental IT support skills:  
    - Operating systems and basic commands  
    - Hardware setup and troubleshooting  
@@ -32,28 +32,28 @@ I'm developing **practical beginner skills** in **data analysis**, **IT technica
 
 ### 🧩 Secondary Focus
 
-- **C++ (Beginner)** 🧠  
-  Exploring programming concepts through C++:  
-  - Syntax and structure  
-  - Control flow and functions  
-  - Introduction to object-oriented programming  
+- 🔷 **C++ (Beginner)**   
+   Exploring programming concepts through C++:  
+   - Syntax and structure  
+   - Control flow and functions  
+   - Introduction to object-oriented programming  
 
-- **Software Testing** 🧪  
+- 🔍 **Software Testing**   
    Gaining a solid understanding of the basics of manual software testing:  
    - Test planning and execution  
    - Writing and organizing test cases  
    - Understanding defect lifecycles  
-   - Gaining insight into QA processes and standards (e.g. ISTQB Foundation)
+   - Gaining insight into QA processes and standards (e.g., ISTQB Foundation)  
   
 ---
 
-### 🎯 My Interests
+### 🧪 My Interests
 
-- Data analysis and visualization  
-- Software quality and usability  
-- Software testing  
-- IT support  
-- Learning by doing — hands-on, real-world application  
+- 📊 Data analysis and visualization  
+- 💡Software quality and usability  
+- 🔍 Software testing  
+- 🔧 IT support  
+- 🎨Learning by doing — hands-on, real-world application  
 
 ---
 
