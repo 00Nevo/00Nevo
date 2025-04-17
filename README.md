@@ -15,12 +15,11 @@ I'm developing **practical beginner skills** in **data analysis**, **software te
    - Reporting results clearly and effectively  
    *(R, learned at university in combination with ArcGIS for data analysis, and SPSS for statistical analysis)*
 
-2. **Software Testing** 🧪  
-   Gaining a solid understanding of the basics of manual software testing:  
-   - Test planning and execution  
-   - Writing and organizing test cases  
-   - Understanding defect lifecycles  
-   - Gaining insight into QA processes and standards (e.g. ISTQB Foundation)  
+2. **JavaScript (Beginner)** 💻  
+  Learning how to use JavaScript for basic web interactivity and functionality:  
+  - DOM manipulation  
+  - Event handling  
+  - Browser-based scripting fundamentals  
 
 3. **IT Support Fundamentals** 💻  
    Developing fundamental IT support skills:  
@@ -33,18 +32,19 @@ I'm developing **practical beginner skills** in **data analysis**, **software te
 
 ### 🧩 Secondary Focus
 
-- **JavaScript (Beginner)** 💻  
-  Learning how to use JavaScript for basic web interactivity and functionality:  
-  - DOM manipulation  
-  - Event handling  
-  - Browser-based scripting fundamentals  
-
 - **C++ (Beginner)** 🧠  
   Exploring programming concepts through C++:  
   - Syntax and structure  
   - Control flow and functions  
   - Introduction to object-oriented programming  
 
+- **Software Testing** 🧪  
+   Gaining a solid understanding of the basics of manual software testing:  
+   - Test planning and execution  
+   - Writing and organizing test cases  
+   - Understanding defect lifecycles  
+   - Gaining insight into QA processes and standards (e.g. ISTQB Foundation)
+  
 ---
 
 ### 🎯 My Interests
