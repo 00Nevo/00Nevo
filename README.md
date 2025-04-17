@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-I'm developing **practical beginner skills** in **data analysis**, **software testing**, and **technical support**.
+I'm developing **practical beginner skills** in **data analysis**, **IT technical support/Help desk** & **JavaScript**.
 
 ---
 
