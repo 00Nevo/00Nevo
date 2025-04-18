@@ -47,7 +47,7 @@ I'm developing **practical beginner skills** in **data analysis**, **IT technica
   
 ---
 
-### 🧪 My Interests
+### 💪 My Interests
 
 - 📊 Data analysis and visualization  
 - 💡Software quality and usability  
