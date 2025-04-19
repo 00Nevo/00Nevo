@@ -32,19 +32,14 @@ I'm developing **practical beginner skills** in **data analysis**, **IT technica
 
 ### 🧩 Secondary Focus
 
-- 🔷 **C++ (Beginner)**   
-   Exploring programming concepts through C++:  
-   - Syntax and structure  
-   - Control flow and functions  
-   - Introduction to object-oriented programming  
-
 - 🔍 **Software Testing**   
    Gaining a solid understanding of the basics of manual software testing:  
    - Test planning and execution  
    - Writing and organizing test cases  
    - Understanding defect lifecycles  
-   - Gaining insight into QA processes and standards (e.g., ISTQB Foundation)  
-  
+   - Gaining insight into QA processes and standards (e.g., ISTQB Foundation)
+
+
 ---
 
 ### 💪 My Interests
