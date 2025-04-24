@@ -1,19 +1,19 @@
 ### 👋 About Me
 
-I'm developing **practical beginner skills** in **data analysis**, **IT technical support/Help desk** & **JavaScript**.
+I'm developing **practical beginner skills** in **data analytics**, **IT technical support/Help desk** & **JavaScript**.
 
 ---
 
 ### 📚 Primary Focus
 
-1. 📊 **R + Excel for Data Analysis**   
+1. 📊 **R + Excel for Data Analytics**   
    Using R and Excel together to explore and analyze structured data.  
    Topics include:
    - Organizing and cleaning datasets  
    - Statistical testing (e.g. t-tests, correlation, regression)  
    - Data visualization  
    - Reporting results clearly and effectively  
-   *(i learned at university R, in combination with ArcGIS for data analysis, and SPSS for statistical analysis)*
+   *(i learned at university R, in combination with ArcGIS for data analysis, and SPSS for statistical analytics)*
 
 2. 🟡 **JavaScript (Beginner)**  
    Learning how to use JavaScript for basic web interactivity and functionality:  
@@ -44,7 +44,7 @@ I'm developing **practical beginner skills** in **data analysis**, **IT technica
 
 ### 💪 My Interests
 
-- 📊 Data analysis and visualization  
+- 📊 Data analytics and visualization  
 - 💡Software quality and usability  
 - 🔍 Software testing  
 - 🔧 IT support  
