@@ -4,8 +4,6 @@ I'm developing **practical beginner skills** in **data analytics**, **IT technic
 
 ---
 
-### 📚 Primary Focus
-
 1. 🔧 **IT Support Fundamentals**   
    Developing fundamental IT support skills:  
    - Operating systems and basic commands  
@@ -35,18 +33,15 @@ I'm developing **practical beginner skills** in **data analytics**, **IT technic
    - DOM manipulation  
    - Event handling  
    - Browser-based scripting fundamentals  
----
 
-### 🧩 Secondary Focus
-
-- 🔍 **Software Testing**   
-   Gaining a solid understanding of the basics of manual software testing:  
-   - Test planning and execution  
-   - Writing and organizing test cases  
-   - Understanding defect lifecycles  
-   - Gaining insight into QA processes and standards (e.g., ISTQB Foundation)
-
-
+5. ☕ Java for Apps & Games (Beginner)
+Learning to build interactive apps, games, and GUIs using Java and Android Studio:
+   - Simple console games (e.g. Hi-Lo guessing)
+   - GUI development with JFrame, JPanel, and layout managers
+   - Android app creation with touch input and multitouch support
+   - Drawing and animation with timers and graphics
+   -  Sharing apps and handling user preferences
+   
 ---
 
 ### 💪 My Interests
