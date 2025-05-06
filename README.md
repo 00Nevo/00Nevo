@@ -1,11 +1,12 @@
-### 👋 About Me
 
-I'm developing **practical beginner skills** in **data analytics**, **IT technical support/Help desk** & **JavaScript**.
 
+👋 About Me
+I'm developing beginner-friendly, practical skills in IT technical support, data analytics, creative audio programming with Python, and game development with JavaScript and Java.
+I share my projects live on Twitch — not just to share my progress, mistakes, and projects online, but also to connect with others who enjoy building things and exploring creative ideas together.
 ---
 
 1. 🔧 **IT Support Fundamentals**   
-   Developing fundamental IT support skills:  
+  Building a foundation in IT support: 
    - Operating systems and basic commands  
    - Hardware setup and troubleshooting  
    - Basic networking and security  
@@ -47,13 +48,9 @@ Learning Java by following a project-based book focused on interactive apps and 
 ---
 
 ### 💪 My Interests
-
-- 📊 Data analytics and visualization  
-- 💡Software quality and usability  
-- 🔍 Software testing  
-- 🔧 IT support  
-- 🎨Learning by doing — hands-on, real-world application  
-
----
-
-I'm motivated by a decade of learning as a webmaster and am ready to grow into more advanced roles in **data**, **QA**, or **support**.
+    - 🔧 IT support and troubleshooting
+    - 📊 Data analysis and visualization
+    - 🐍 Audio and creative coding with Python
+    - 🟨 Game development with JavaScript
+    - ☕ Exploring Minecraft modding with Java
+    - 🌐 Learning on Twitch and building connections with other curious creators
