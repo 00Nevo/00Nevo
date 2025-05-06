@@ -1,5 +1,3 @@
-
-
 👋 About Me
 I'm developing beginner-friendly, practical skills in IT technical support, data analytics, creative audio programming with Python, and game development with JavaScript and Java.
 I share my projects live on Twitch — not just to share my progress, mistakes, and projects online, but also to connect with others who enjoy building things and exploring creative ideas together.
