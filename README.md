@@ -20,7 +20,7 @@ I'm developing **practical beginner skills** in **data analytics**, **IT technic
    - Reporting results clearly and effectively  
    *(i learned at university R, in combination with ArcGIS for data analysis, and SPSS for statistical analytics)*
 
-3. 🐍 Python for Music (Beginner)
+3. 🐍 Python for Music 
    Exploring music creation and audio programming using Python-based environments like TunePad and EarSketch:
     - Beat making and rhythm sequencing
     - Melody generation with lists and loops
@@ -28,19 +28,21 @@ I'm developing **practical beginner skills** in **data analytics**, **IT technic
     - Song composition with code
     - Using Python for creative audio effects and signal processing
 
-4. 🟡 **JavaScript (Beginner)**  
-   Learning how to use JavaScript for basic web interactivity and functionality:  
-   - DOM manipulation  
-   - Event handling  
-   - Browser-based scripting fundamentals  
+4. 🟨 JavaScript for Pixel Art for 2D Games
+Learning JavaScript by following a hands-on game development book that covers:
+    - Game loops, player input, and object management
+    - Sprites, collisions, and game state handling
+    - Building full games like Jewel Jam and Penguin Pairs
+... to prepare for making my own pixel art games using PixiJS, a powerful JavaScript rendering engine for 2D graphics 🎮🧩🎨
 
-5. ☕ Java for Apps & Games (Beginner)
-Learning to build interactive apps, games, and GUIs using Java and Android Studio:
-   - Simple console games (e.g. Hi-Lo guessing)
-   - GUI development with JFrame, JPanel, and layout managers
-   - Android app creation with touch input and multitouch support
-   - Drawing and animation with timers and graphics
-   -  Sharing apps and handling user preferences
+5. ☕ Java for Apps & 3D Games (Beginner)
+Learning Java by following a project-based book focused on interactive apps and games:
+    - Console games like a Hi-Lo guessing game
+    - GUI development with JFrame, JPanel, and layout manager
+    - Drawing, animation, and collision detection with timers
+    - Touch-based Android apps with multitouch support
+    - Sharing apps and handling user preferences
+... with the goal of using Java to create Minecraft mods in the future 🧱🎮
    
 ---
 
