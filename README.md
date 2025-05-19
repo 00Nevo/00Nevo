@@ -11,14 +11,30 @@ I share my projects live on Twitch — not just to share my progress, mistakes, 
    - Basic networking and security  
    - User support and issue resolution
 
-2. ☕ **Java for Pixel art & 2D Games**  
-   Learning Java by following a project-based book focused on interactive apps and games:  
-   - Console games like a Hi-Lo guessing game  
-   - GUI development with `JFrame`, `JPanel`, and layout manager  
-   - Drawing, animation, and collision detection with timers  
-   - Touch-based Android apps with multitouch support  
-   - Sharing apps and handling user preferences  
-   ...with the goal of using Java to create **Minecraft mods** in the future 🧱🎮
+2. ☕ **Java**
+🎨 **Pixel art & Interactive Art**   
+Learning Java through Processing with a visual, art-focused approach:
+- Drawing shapes, pixel art, and color composition  
+- Building interactive sketches with animation and user input  
+- Creating holiday cards, abstract clocks, and generative art  
+- Making maze games, paint apps, and photo collages  
+- Audio-reactive visuals and custom weather dashboards  
+- Connecting Processing to Arduino and sensors  
+
+--- 
+
+🎮 2D Games & Game Systems** 
+Leveling up with structured Java-based game development:
+- Programming logic: variables, loops, arrays, functions, OOP  
+- Real-time movement, collisions, and frame-based animation  
+- Sprite systems, tiling, scrolling, and enemy AI  
+- Pixel-perfect collision detection and curve-based motion  
+- Sound integration, data handling, and advanced game controls  
+- Building reusable systems for game engines in Processing
+
+ ...with the goal of using Java to create **Minecraft mods** in the future 🧱🎮
+
+---
 
 3. 📊 **R + Excel for Data Analytics**  
    Using R and Excel together to explore and analyze structured data.  
