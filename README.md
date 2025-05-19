@@ -45,7 +45,7 @@ Leveling up with structured Java-based game development:
    - Reporting results clearly and effectively  
    *(I learned at university R, in combination with ArcGIS for data analysis, and SPSS for statistical analytics)*
 
-5. 🐍 **Python for Music**  
+4. 🐍 **Python for Music**  
    Exploring music creation and audio programming using Python-based environments like TunePad and EarSketch:  
    - Beat making and rhythm sequencing  
    - Melody generation with lists and loops  
