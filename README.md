@@ -1,5 +1,5 @@
 👋 **About Me**  
-I'm developing beginner-friendly, practical skills in IT technical support, data analytics, pixel art & game development with Java & creative audio programming with Python.  
+I'm developing beginner-friendly, practical skills in IT technical support, data analytics with R, pixel art & 2 D game development with Java & creative audio programming with Python.  
 I share my projects live on Twitch — not just to share my progress, mistakes, and projects online, but also to connect with others who enjoy building things and exploring creative ideas together.
 
 ---
