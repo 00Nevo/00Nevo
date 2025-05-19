@@ -40,9 +40,8 @@ I share my projects live on Twitch — not just to share my progress, mistakes, 
 ---
 
 ### 💪 **My Interests**  
-- 🔧 IT support and troubleshooting  
-- 📊 Data analysis and visualization  
-- 🐍 Audio and creative coding with Python  
-- 🟨 Game development with JavaScript  
-- ☕ Exploring Minecraft modding with Java  
+- 🔧 IT support and troubleshooting 
+- ☕ Pixel art and game development with Java
+- 📊 Data analysis and visualization with R
+- 🐍 Audio and creative coding with Python 
 - 🌐 Learning on **Twitch** and building connections with other curious creators
